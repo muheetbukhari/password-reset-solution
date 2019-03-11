@@ -1,0 +1,5 @@
+keep in mind there are certain limitations 
+total number of distinct letters should be 10 
+
+though the main loop if enabled will find the best pattern for the combination of characters, which may take time and other wise will work fine just normally. 
+
